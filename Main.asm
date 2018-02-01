@@ -10,7 +10,7 @@
 ExitProcess PROTO, dwExitCode: DWORD
 
 .data
- sum DWORD 3	; define your variable here
+; define your variable here
 
 
 
