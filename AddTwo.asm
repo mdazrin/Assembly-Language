@@ -9,7 +9,7 @@
 ExitProcess PROTO, dwExitCode: DWORD
 
 .data
-	; define your variable here
+	; define your variables here
 
 	varone DWORD 2		; 32-bit unsigned integer
 	vartwo DWORD 4
