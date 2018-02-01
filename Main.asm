@@ -22,7 +22,6 @@ main PROC
 
 	mov eax,3
 	add eax,8
-	add eax,sum
 
 	
 
