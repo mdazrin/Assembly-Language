@@ -21,11 +21,11 @@ ExitProcess PROTO, dwExitCode: DWORD
 main PROC
 	; write your assembly code here
 
-	mov eax,0			; EAX = 00000000h
+	mov eax,0		; EAX = 00000000h
 	mov al, oneByte		; EAX = 00000078h
 	mov ax, oneWord		; EAX = 00001234h
 	mov eax, oneDword	; EAX = 12345678h
-	mov ax,0			; EAX = 12340000h
+	mov ax,0		; EAX = 12340000h
 
 
 	Invoke ExitProcess, 0
