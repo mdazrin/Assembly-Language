@@ -1,6 +1,6 @@
 ; Author: Azrin Hadahi
 ; Date: 12/2/2018
-; Explanation: Data Transfer Instructions, like movzx,movsx, data-offset operands, lahf,sahf, xchg
+; Explanation: Data Transfer Instructions, like movzx,movsx, data-offset operands, lahf,sahf
 
 .386
 .model flat, stdcall
